@@ -147,6 +147,3 @@ If you find this useful, please give it a ⭐ on GitHub!
 ## 📜 License
 
 This project is open-source and free to use.
-
-```# ✅ Your README is fuldd screenshots section”**.
-```
